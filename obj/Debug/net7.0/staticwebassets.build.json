@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hmWOeotsbgaieHTYSd8MFgkrjG1Uar153b8kko3v/PY=",
+  "Source": "AltaBancaApi",
+  "BasePath": "_content/AltaBancaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
